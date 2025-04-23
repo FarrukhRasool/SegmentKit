@@ -15,9 +15,9 @@ public struct SegmentPickerConfiguration {
     public var selectionOffset: CGFloat
 
     public init(
-        width: CGFloat = 300,
+        width: CGFloat = 400,
         height: CGFloat = 70,
-        cornerRadius: CGFloat = 40,
+        cornerRadius: CGFloat = 120,
         selectorInset: CGFloat = 6,
         selectionOffset: CGFloat = 0
     ) {

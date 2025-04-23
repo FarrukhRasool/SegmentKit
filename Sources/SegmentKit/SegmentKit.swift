@@ -67,6 +67,6 @@ struct SegmentKit: View {
     SegmentKit(viewModel: SegmentPickerViewModel(selectedIndex: .zero, choices: [
         SegmentItemValue(id: 0, label: "Active"),
         SegmentItemValue(id: 1, label: "Histroy"),
-//        SegmentItemValue(id: 2, label: "Pending"),
+        SegmentItemValue(id: 2, label: "Pending"),
     ])) { _ in }
 }
