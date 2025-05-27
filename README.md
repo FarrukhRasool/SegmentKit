@@ -90,5 +90,3 @@ If you find a bug or have a feature request, feel free to open an issue or a pul
 
 
 ---
-
-Let me know if you’d like this in a `.md` file to copy directly or want me to tailor it for Cocoapods as well.
